@@ -40,7 +40,7 @@
 ### 🤝 Let's Connect
 
 <p align="center">
-  <a href="www.linkedin.com/in/akshita-singhal-649956304">
+  <a href="https://www.linkedin.com/in/akshita-singhal-649956304/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="https://leetcode.com/u/akshita1111/">
