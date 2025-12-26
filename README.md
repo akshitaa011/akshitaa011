@@ -15,10 +15,9 @@
 ### 👩‍🎓 About Me
 
 - 🎓 B.Tech Computer Science & Engineering student at **Banasthali Vidyapith**
-- 🏆 **NTSE Stage-1 Qualified**
-- 🥇 Gold Medalist for Academic Excellence (7 consecutive years)
-- 💻 Interested in **Full Stack Development & Problem Solving**
-- 📍 India
+- 📍 Based in Uttar Pradesh, India
+-💻 Passionate MERN Stack Developer with a strong foundation in building scalable web applications
+-🚀 Enthusiastic about exploring new technologies and frameworks to create efficient solutions
 - 📧 Reach me at: akshitasinghal300@gmail.com
 
 ---
