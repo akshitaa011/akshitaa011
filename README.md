@@ -18,11 +18,10 @@
 - 📍 Based in **Uttar Pradesh, India**
 - 💻 Passionate **MERN Stack Developer** with a strong foundation in building scalable web applications
 - 🚀 Enthusiastic about exploring new technologies and frameworks to create efficient solutions
-<p align="left">
-  <a href="mailto:akshitasinghal300@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+- <a href="https://mail.google.com/mail/?view=cm&fs=1&to=akshitasinghal300@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 
 
 ---
