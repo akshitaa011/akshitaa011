@@ -1,8 +1,14 @@
+
 <h1 align="center">Hi 👋, I'm Akshita Singhal</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=B.Tech+CSE+Student;Aspiring+Software+Engineer;Full+Stack+Enthusiast&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=B.Tech+CSE+Student;Aspiring+Software+Engineer;Full+Stack+Developer&center=true&width=500&height=50">
 </p>
+
+<p align="center">
+  <img src="https://i.gifer.com/ZKZg.gif" width="120"/>
+</p>
+
 
 ---
 
@@ -31,11 +37,7 @@
 
 ---
 
-### 📊 GitHub Statistics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshitaa011&layout=compact&theme=radical)
-
----
 
 ### 🤝 Let's Connect
 
