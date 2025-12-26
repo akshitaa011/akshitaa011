@@ -1,0 +1,49 @@
+<h1 align="center">Hi 👋, I'm Akshita Singhal</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=B.Tech+CSE+Student;Aspiring+Software+Engineer;Full+Stack+Enthusiast&center=true&width=500&height=50">
+</p>
+
+---
+
+### 👩‍🎓 About Me
+
+- 🎓 B.Tech Computer Science & Engineering student at **Banasthali Vidyapith**
+- 🏆 **NTSE Stage-1 Qualified**
+- 🥇 Gold Medalist for Academic Excellence (7 consecutive years)
+- 💻 Interested in **Full Stack Development & Problem Solving**
+- 📍 India
+- 📧 Reach me at: akshitasinghal300@gmail.com
+
+---
+
+### 🛠️ Tech Stack
+
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-red?logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-003B57?logo=database&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub Statistics
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshitaa011&layout=compact&theme=radical)
+
+---
+
+### 🤝 Let's Connect
+
+<p align="center">
+  <a href="www.linkedin.com/in/akshita-singhal-649956304">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://leetcode.com/u/akshita1111/">
+    <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode">
+  </a>
+</p>
